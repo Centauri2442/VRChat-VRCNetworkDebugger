@@ -1,3 +1,6 @@
+## Note to Reviewers
+This project was developed under tight constraints (VRChat UdonSharp and networking limitations) and does not reflect my current code quality standards. For more representative examples of my work, please see my pinned repositories or visit my [portfolio](https://studioviolet.net/).
+
 # VRCNetworkDebugger
 #### Created as an alternative to the VRChat networking panels, VRC Network Debugger allows developers to quickly and easily see network usage and other relevant info about the networked udon behaviours in their world!
 ---
